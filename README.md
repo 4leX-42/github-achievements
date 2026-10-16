@@ -14,3 +14,9 @@ Referencia de requisitos: [drknzz/GitHub-Achievements](https://github.com/drknzz
 | Galaxy Brain | Respuestas aceptadas en Discussions de otros (2 / 8 / 16 / 32) | orgánico | pendiente |
 | Public Sponsor | Patrocinar a alguien en GitHub Sponsors | de pago | pendiente |
 | Open Sourcerer | Oculto (PRs mergeados en repos públicos de otros) | orgánico | pendiente |
+
+## Cómo se comprueba
+
+Los logros se ven en la pestaña *Achievements* del perfil (solo con sesión iniciada) y GitHub
+los concede con retraso: pueden tardar de unos minutos a un día en aparecer. Hay que tener
+activada la opción *Show Achievements on my profile* en *Settings > Public profile*.
